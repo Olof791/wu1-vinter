@@ -7,7 +7,7 @@
 
 :root {
   --color-bg: rgba(103, 157, 157, 0.587);
-  --color-fg: #fff;
+  --color-fg: red;
 
   --font-body: sans-serif;
   --font-header: 'KerakNeraka', sans-serif;
